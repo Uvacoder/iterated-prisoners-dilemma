@@ -1,1 +1,1 @@
-# iterated-prisoners-dilemma
+Part of a class on paradoxes at Williams College (PHIL 126). This script simulates an iterated prisoner's dilemma game between different players who play according to different heuristics. It was inspired by Axelrod's tournament.
